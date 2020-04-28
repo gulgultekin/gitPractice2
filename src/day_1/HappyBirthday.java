@@ -5,5 +5,7 @@ public class HappyBirthday {
         System.out.println("Happy Birthday B18");
         System.out.println("Happy Birthday");
         //Edited from github
+         System.out.println("Happy Birthday");
+        
     }
 }
